@@ -1,5 +1,3 @@
-% # PPD_IQA
-
 # PPD-IQA: A Bottom-Up and Top-Down Combined Approach for Blind Image Quality Assessment via Prototype-Prompted Disentangling
 
 This repository is a PyTorch implementation of PPD-IQA (accepted by IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTATIONAL INTELLIGENCE ). The code of PPD-IQA is being organized.
